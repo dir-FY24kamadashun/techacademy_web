@@ -1,0 +1,19 @@
+nav ul li{
+	display:inline-block;
+	width:100px;
+	background-color:#ddd;
+	text-align:center;
+	padding:5px;
+}
+
+nav ul{
+	position:ficxed;
+	top:10px;
+	left:10px;
+	
+}
+
+.long-content{
+	height:300px;
+	background-color:skyblue;
+}
