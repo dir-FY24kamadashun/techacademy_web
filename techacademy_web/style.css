@@ -7,13 +7,13 @@ nav ul li{
 }
 
 nav ul{
-	position:ficxed;
+	position:fixed;
 	top:10px;
 	left:10px;
 	
 }
 
 .long-content{
-	height:300px;
+	height:3000rpx;
 	background-color:skyblue;
 }
